@@ -1,4 +1,4 @@
 .deps
-lib
 node_modules
 pkg
+.idea/
